@@ -14,7 +14,7 @@ Export with Ctrl + P → Save as PDF.
 
 🚀 Usage
 
-Download/clone this repo.
+Download or clone this repo.
 
 Open index.html in your browser (no install required).
 
@@ -24,6 +24,10 @@ Press Ctrl + P → Save as PDF.
 
 🛠️ Tech
 
-HTML5, CSS3, Vanilla JS
+HTML5
+
+CSS3
+
+Vanilla JavaScript
 
 LocalStorage for persistence
