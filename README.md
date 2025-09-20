@@ -1,74 +1,29 @@
-# resumebuilder
+# Resumebuilder
+
 ✨ Features
 
-Form Inputs
+Add/remove Education, Work/Projects, and Skills dynamically.
 
-Name, contact details, and social links.
+Live two-pane layout: form (left) + resume preview (right).
 
-Multiple Education, Work/Project entries.
+Basic validation (required fields, name ≤ 50 chars).
 
-Skills with level indicators.
+Data saved in LocalStorage.
 
-Dynamic Section Addition
+Export with Ctrl + P → Save as PDF.
 
-Add/remove Education, Experience, and Skills dynamically.
+🚀 Usage
 
-Live Preview
+Download/clone this repo.
 
-Two-pane layout: left for form, right for resume preview.
+Open index.html in your browser (no install required).
 
-Updates instantly as you type.
+Fill out the form → preview updates instantly.
 
-Validation
+Press Ctrl + P → Save as PDF.
 
-Prevents empty required fields.
+🛠️ Tech
 
-Limits character length (e.g., name ≤ 50 chars).
+HTML5, CSS3, Vanilla JS
 
-LocalStorage
-
-Saves data so it is not lost on refresh.
-
-Export as PDF
-
-Use Ctrl + P → Save as PDF for a clean export.
-
-🛠️ Tech Stack
-
-HTML5
-
-CSS3
-
-Vanilla JavaScript (ES6)
-
-LocalStorage
-
-🚀 Getting Started
-1. Clone or Download the Repository
-git clone https://github.com/your-username/resume-builder-vanilla-js.git
-cd resume-builder-vanilla-js
-
-
-Or simply extract the provided ZIP file.
-
-2. Open in Browser
-
-No installation is required.
-Just open index.html in your browser:
-
-Double click index.html
-
-Or run a local server:
-
-npx serve .
-
-
-Then open http://localhost:5000 (or the shown port).
-
-📤 Exporting Your Resume
-
-Fill in your details in the form.
-
-Use Print / Save as PDF (Ctrl + P).
-
-Choose Save as PDF to download.
+LocalStorage for persistence
