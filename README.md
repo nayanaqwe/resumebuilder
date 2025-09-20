@@ -33,9 +33,9 @@ Vanilla JavaScript
 LocalStorage for persistence
 
 🚀 **Getting Started**
-1. Clone or Download the Repository
-'''git clone https://github.com/your-username/resume-builder-vanilla-js.git
-cd resume-builder-vanilla-js'''
+```bash
+git clone https://github.com/your-username/resume-builder-vanilla-js.git
+cd resume-builder-vanilla-js
 
 
 Or simply extract the provided ZIP file.
