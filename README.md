@@ -36,6 +36,7 @@ LocalStorage for persistence
 ```bash
 git clone https://github.com/your-username/resume-builder-vanilla-js.git
 cd resume-builder-vanilla-js
+```
 
 
 Or simply extract the provided ZIP file.
